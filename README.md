@@ -4,7 +4,7 @@
 
 **The first smart manager and one-click mod installer for DLSS 5, ReShade, and Streamline.**
 
-[![Download](https://img.shields.io/badge/DOWNLOAD-LATEST%20RELEASE%20(V1.1.8)-00e676?style=for-the-badge&logoColor=white)]()
+[![Download](https://img.shields.io/badge/DOWNLOAD-LATEST%20RELEASE%20(V1.1.8)-00e676?style=for-the-badge&logoColor=white)](https://github.com/NODIX-TECH/DLSS-5-MANAGER/releases)
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%20x64-24292e?style=flat-square)]()
 [![Framework](https://img.shields.io/badge/Framework-.NET%208%20|%20Avalonia%20UI-512bd4?style=flat-square)]()
